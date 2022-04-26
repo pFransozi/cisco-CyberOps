@@ -1,6 +1,6 @@
 # CyberOps Associate
 
-All this files are contents from the cisco cyberops associate course from the netacad. As well, I've included some exercises and notes. The purpose of this content is only educational.
+All this files are contents from the cisco cyberops associate course from the netacad. As well, I've included some exercises and notes. The purpose of this content is only educational for myself.
 
 First section, chapters 1 and 2:
 
