@@ -4,7 +4,9 @@ This repository has my notes, contents and exercises, on which I based my study 
 
 The purpose of this content is only educational for myself.
 
-First section, chapters 1 and 2:
+About materials from netacad, see [NetAcad](1.content_from_netacad/)
+About materials from inLearning, see [InLearning](2.content_from_inLearning/)
+ 
 
 
 
